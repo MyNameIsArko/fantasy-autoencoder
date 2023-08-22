@@ -51,7 +51,7 @@ If images latent representation are far enough, it's possible to go through othe
 
 <img src="imgs/random_sample.png" width="300px" />
 
-Given tiny size of the dataset (only 80 images), latent space doesn't produce good totally new images. But it can mix dataset images to produce quite interesting results.
+Given tiny size of the dataset (only 80 images), latent space doesn't produce good quality new images. But it can mix dataset images to produce quite interesting results.
 
 ## What is IntroVAE family models?
 
